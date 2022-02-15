@@ -1,0 +1,74 @@
+/* Body Background Style */
+body {
+    background-color: rgba(237,237,237,255);
+}
+
+/* Graph Styles */
+.graph-container {
+    float: left;
+}
+
+.small-graph {
+    width: 225px;
+    height: 225px;
+}
+
+.tiny-graph {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+
+/* Container Style */
+.col-md-12 {
+    padding-top: 40px;
+}
+
+.col-lg-8 {
+    padding-top: 40px;
+}
+
+.col-lg-4 {
+    padding-top: 40px;
+}
+
+/* Navbar Style */
+a.navbar-brand {
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(81, 175, 160);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.navbar {
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:40px;
+}
+
+.nav-item.dropdown.show {
+    background-color: #ddd;
+}
+
+/* Header Style */
+/* https://imagecolorpicker.com/ */
+.box-header {
+    color: rgba(74,170,165,255);
+    font-family: Georgia, 'Times New Roman', Times, Serif;
+    font-weight: bold;
+    padding: 30px;
+}
+
+/* Text Style */
+.box-text {
+    color: rgba(112,128,144,255);
+    font-family: Arial, Helvetica, Sans-Serif;
+    line-height: 200%;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
